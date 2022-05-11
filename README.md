@@ -1,5 +1,5 @@
 # Language-of-the-Gods-Decoder
-Requires Java 17
+Requires Java Runtime Environment (JRE) 8
 
 Only works with lowercase characters (ex. use 1 instead of !, a instead of A, ' instead of ")
 
